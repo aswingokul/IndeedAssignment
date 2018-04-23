@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47894" started-at="2018-04-22T12:17:22Z" finished-at="2018-04-22T12:18:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47894" started-at="2018-04-22T12:17:22Z" finished-at="2018-04-22T12:18:10Z">
+      <class name="indeed.assignment.SearchTest">
+        <test-method status="PASS" signature="driverMethod()[pri:0, instance:indeed.assignment.SearchTest@3d99d22e]" name="driverMethod" duration-ms="47653" started-at="2018-04-22T12:17:22Z" finished-at="2018-04-22T12:18:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverMethod -->
+        <test-method status="PASS" signature="close()[pri:0, instance:indeed.assignment.SearchTest@3d99d22e]" name="close" is-config="true" duration-ms="199" started-at="2018-04-22T12:18:09Z" finished-at="2018-04-22T12:18:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- indeed.assignment.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
